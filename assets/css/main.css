@@ -9274,4 +9274,10 @@ table {
 
 #sidebar::-webkit-scrollbar {
   display: none;
+
+}
+
+#sidebar {
+  scrollbar-width: none;
+
 }
